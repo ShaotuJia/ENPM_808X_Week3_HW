@@ -1,0 +1,15 @@
+01:35:53 **** Incremental Build of configuration Debug for project Software_Engineering_Exercise_9.4 ****
+make all 
+Building file: ../src/Software_Engineering_Exercise_9.4.cpp
+Invoking: Cygwin C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Software_Engineering_Exercise_9.4.d" -MT"src/Software_Engineering_Exercise_9.4.o" -o "src/Software_Engineering_Exercise_9.4.o" "../src/Software_Engineering_Exercise_9.4.cpp"
+Finished building: ../src/Software_Engineering_Exercise_9.4.cpp
+ 
+Building target: Software_Engineering_Exercise_9.4.exe
+Invoking: Cygwin C++ Linker
+g++  -o "Software_Engineering_Exercise_9.4.exe"  ./src/Software_Engineering_Exercise_9.4.o   
+Finished building target: Software_Engineering_Exercise_9.4.exe
+ 
+
+01:35:54 Build Finished (took 1s.630ms)
+
